@@ -1,5 +1,5 @@
 - 👋 Olá! Meu nome é Nilda Juliana e sou apaixonada por tecnologia, jogos, livros, praia e música.
-- Atualmente, estou cursando Jogos Digitais na Uninter e trabalho em uma loja do comércio.  
+- Atualmente, estou cursando Jogos Digitais na Uninter. 
 - 👀 Meu maior interesse está na parte artística, especialmente em modelagem e animação 3D. 
 - 🌱 Atualmente estou aprimorando meus conhecimentos no Blender, aprendendo a desenvolver jogos na Godot Engine e também aperfeiçoando meus conhecimentos em linguagem de programação com JavaScript. 
 - 💞️ Estou ansiosa para colaborar em um projeto gamificado para uma empresa do comércio, focado em aumentar o engajamento do cliente e impulsionar as vendas online.
